@@ -15,11 +15,8 @@
 - **日期與時間：** Datetime
 
 ## 執行
-1.可以先到中央氣象局的氣象資料開放平台登入取的API
-   https://opendata.cwa.gov.tw/index
-   登入並取得授權碼
-
-2. 確保已安裝 Python 及相關依賴套件：
+1.可以先到中央氣象局的氣象資料開放平台登入取的API  https://opendata.cwa.gov.tw/index  登入並取得授權碼  
+2.確保已安裝 Python 及相關依賴套件：
    ```bash
    pip install requests pillow
    ```
