@@ -23,3 +23,9 @@
 3.執行程式
    ```bash
    python weather.py
+   ```
+
+## 實際操作畫面
+<img width="448" height="427" alt="image" src="https://github.com/user-attachments/assets/6cf2ff93-6b4b-490b-92a8-906db2e65ed9" />
+
+介紹影片連結：https://www.youtube.com/watch?v=RmkIM0DE2Tg
